@@ -2,9 +2,7 @@
 Animated 3D Models for 3D Canvas
 
 <h1>Bring your 3DCanvas Monsters to Life!</h1>
-[![YouTube Video](https://img.youtube.com/vi/0UdXuUQbcgI/0.jpg)](https://youtu.be/0UdXuUQbcgI)
-
-
+https://youtu.be/0UdXuUQbcgI<br>
 
 Required System: <br>
 <ul>DnD5e (3.3+)</ul>
@@ -17,3 +15,13 @@ Recommended Modules:<br>
 <ul>Midi QOL</ul>
 <ul>JB2A</ul>
 <ul>Cauldron of Plentiful Resources</ul>
+<br>
+<h1>Installation</h1>
+1. Install by Manifest Link<br>
+(Need a link? Check out my Patreon!) https://patreon.com/digidm<br>
+<br>
+2. Enable module in Foundry<br>
+3. Navigate to the 3D Animations Compendium<br>
+4. Drag Actor onto 3D Canvas Scene<br>
+  <ul>a) Most animations are built into actor actions<br></ul>
+  <ul>b) Some animations are available by right-clicking and choosing the animations icon<br></ul>
