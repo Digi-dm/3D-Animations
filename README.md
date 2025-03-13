@@ -25,3 +25,8 @@ Recommended Modules:<br>
 4. Drag Actor onto 3D Canvas Scene<br>
   <ul>a) Most animations are built into actor actions<br></ul>
   <ul>b) Some animations are available by right-clicking and choosing the animations icon<br></ul>
+
+<h1>License</h1>
+These models are provided "as is" and may not be sold for private use. All models herein are made by talented artists provided under GPL
+
+“3D Animations may include unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.”
